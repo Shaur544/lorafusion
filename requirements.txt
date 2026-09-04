@@ -1,0 +1,6 @@
+torch>=2.1
+pulp>=2.7
+pytest>=7.4
+
+# GPU-only, installed separately on Colab (see colab_verification/):
+# triton>=3.2

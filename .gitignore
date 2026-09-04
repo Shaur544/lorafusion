@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+.DS_Store
+.ipynb_checkpoints/
+.dist/
+
+# Workspace-local tooling and reference material, not part of the project
+Claude skill/
+lora.pdf
+lorafusion.zip
